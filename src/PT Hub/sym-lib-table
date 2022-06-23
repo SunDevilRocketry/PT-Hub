@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PT-Hub")(type "KiCad")(uri "C:/Users/kherr/OneDrive/Documents/GitHub/PT-Hub/lib/PT-Hub.kicad_sym")(options "")(descr ""))
+  (lib (name "Engine-Controller")(type "KiCad")(uri "C:/Users/kherr/OneDrive/Documents/GitHub/L0002-Liquids-Engine-Controller/lib/Engine-Controller.kicad_sym")(options "")(descr "")(disabled))
+)
