@@ -23,7 +23,7 @@
   (fp_line (start -0.9 -0.5) (end 0.9 -0.5) (layer "F.Fab") (width 0.127) (tstamp b2027bfe-4c9f-43cc-8964-b4399decb113))
   (pad "1" smd rect (at -0.79 0) (size 0.94 1.02) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b652b9b2-cdd7-457e-b9e2-7f6f9787db45))
   (pad "2" smd rect (at 0.79 0) (size 0.94 1.02) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dc5b3e0d-3130-497d-9cd9-8455005a609b))
-  (model "C:/Users/kherr/OneDrive/Documents/GitHub/L0006-PT-Hub/CAD/3Dfiles/RES_0603 (1).step"
+  (model "C:/Users/kherr/OneDrive/Documents/GitHub/PT-Hub/CAD/3Dfiles/RES_0603 (1).step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
