@@ -6,13 +6,9 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0a6f4f59-7e9f-438c-99e5-e07d43318337)
   )
-  (fp_text value "SML-LX1206GC-TR" (at 0 2.6162) (layer "F.SilkS")
+  (fp_text value "SML-LX1206GC-TR" (at 0 2.6162) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 704c7396-e8ec-416e-9899-2d34278b4a54)
-  )
-  (fp_text user "Copyright 2021 Accelerated Designs. All rights reserved." (at 0 0) (layer "Cmts.User") hide
-    (effects (font (size 0.127 0.127) (thickness 0.002)))
-    (tstamp 027cb513-ec66-4df8-8f63-1c9818c3d36d)
   )
   (fp_line (start 1.2192 -2.032) (end 0.5588 -2.032) (layer "F.SilkS") (width 0.12) (tstamp 06423581-cf14-4526-bcd7-128370651432))
   (fp_line (start 0.5588 -2.032) (end 0.5588 -1.5748) (layer "F.SilkS") (width 0.12) (tstamp 0ed67ac8-ea12-45f5-aee5-445fb49c7772))
@@ -51,6 +47,11 @@
   (pad "1" smd rect (at -1.524 0) (size 0.9652 1.2954) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4022fc35-5894-40ea-a70f-f31d8a127ff9))
   (pad "2" smd rect (at 1.524 0) (size 0.9652 1.2954) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b7ab34c8-2d25-4759-8078-6b1c3c48b0a7))
   (model "C:/Users/kherr/OneDrive/Documents/GitHub/PT-Hub/CAD/3Dfiles/SML-LX1206GC-TR.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "/home/olsport/Documents/SDR/PCB/PT-Hub/CAD/3Dfiles/SML-LX1206GC-TR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
